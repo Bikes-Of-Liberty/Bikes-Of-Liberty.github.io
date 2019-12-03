@@ -1,3 +1,3 @@
-# website
+# Bikes-Of-Liberty Page README
 # Created by P. Lincoln Clement on 20191203
 # Applicable code for both www.bikesofliberty.org & www.bikesofliberty.com
